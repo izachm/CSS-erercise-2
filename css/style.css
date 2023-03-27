@@ -1,0 +1,46 @@
+
+html {
+    font-size: 16px;
+}
+
+.element1 {
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    background-color: green;
+    width: 600px;
+
+    padding: 0%;
+    border: 10px solid red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.element2 {
+    font-size: 1.5rem;
+    color: white;
+    background-color: blue;
+
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.boxes {
+display:inline-flex;
+}
+
+.element3 {
+    font-size: 18px;
+    color: black;
+    background-color: darkorange;
+    width: 50vw;
+    text-align: left;
+}
+
+.element4 {
+    color: white;
+    background-color: orange;
+    width: 50vw;
+}
